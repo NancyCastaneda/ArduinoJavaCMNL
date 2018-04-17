@@ -40,7 +40,7 @@ Información de contacto:
 
 /******************************************************************************************************************************/
 
-Instrucciones: Para la construcción del circuito se añade una imagen llamada "alarma_bb Diagrama.png" con el diagrama para su correcto armado, así como el código necesario para su funcionamiento, listo para cargar en el arduino UNO, el archivo se llama "AlarmaSleep.ino".
+Instrucciones: Para la construcción del circuito se añade una imagen llamada "LCDJava_bb.png" con el diagrama para su correcto armado, así como el código necesario para su funcionamiento, listo para cargar en el arduino UNO, el archivo se llama "LCD_Java.ino", de igual manera, se incluyen los .java (ConexionJavaArduino, ControlVentana, Ventana, Mensajes) necesarios para la creación de la aplicación de escritorio.
 
 /******************************************************************************************************************************/
 
