@@ -12,12 +12,14 @@ Para la construcción de la práctica se hizo uso de software libre, tales como:
     Frintzing 0.9.3 (Para la construcción del diagrama).
 
     Arduino IDE 1.8.5 (Para el código).
+    
+    NetBeans IDE 8.2 (Para código en java)
 
 Las evidencias se muestran en los mismos archivos añadidos a este repositorio.
 
 /******************************************************************************************************************************/
 
-Práctica 2: Arduino con LCD y Java.
+Práctica 3: Arduino con LCD y Java.
 
 En está práctica se establece comunicación serial de Java con Arduino, permitiendo demostrar que ambas tecnologías pueden funcionar a la par sin ningún problema, inclusive, independientemente del SO en el que se corran o ejecuten. La funcionalida que tiene la presente práctica es permitir desplegar en la pantalla lcd:
 
